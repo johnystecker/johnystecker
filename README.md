@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**johnystecker/johnystecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working at Tatra banka, a.s as Full Stack Developer.
+Love to nibble in angular, spring and database queries.
 
-Here are some ideas to get you started:
+Up and running websites: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Kotlan - kotlan.web.app](kotlan.web.app)
+
+[BagTreeBag - bagtree.web.app](bagtree.web.app)
+
+[TimeTableJS - timetablejs.web.app](timetablejs.web.app)
+
+

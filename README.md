@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I’m currently working at Tatra banka, a.s as Full Stack Developer.
-Love to nibble in angular, spring and database queries.
+Love to nibble in java, spring and database queries.
 
 Up and running websites: 
 
